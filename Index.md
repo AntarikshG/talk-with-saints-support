@@ -60,7 +60,7 @@ We respect your privacy.
 
 If you need help or have feedback, contact us:
 
-**Email:** [support@saints-ai.com](mailto:support@saints-ai.com)
+**Email:** [antarikshverse@gmail.com](mailto:antarikshverse@gmail.com)
 
 ---
 
