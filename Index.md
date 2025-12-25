@@ -1,8 +1,4 @@
----
 
-layout: default
-title: Talk with Saints-AI – App Support
-----------------------------------------
 
 # Talk with Saints-AI – App Support
 
